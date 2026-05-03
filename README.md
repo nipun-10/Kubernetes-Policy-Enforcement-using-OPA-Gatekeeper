@@ -114,6 +114,7 @@ This project strengthened my understanding of:
 
 ## 🏗️ Architecture Overview
 
+![Architecture Diagram](Arch.%20Diagram.png)
 ```
 User → kubectl apply
         ↓
